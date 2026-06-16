@@ -1,7 +1,0 @@
-name=input ("Enter your name :")
-hobby=input("Enter your hobby :")
-job=input("Enter your dream job :")
-print(("Hello !"))
-print ( f" My name is {name}")
-print ( f" My hobby is {hobby}")
-print ( f" My dream job is {job}")
