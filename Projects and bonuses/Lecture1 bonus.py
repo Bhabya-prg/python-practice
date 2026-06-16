@@ -1,0 +1,5 @@
+name=input("Enter your name:")
+age=input("Enter your age:")
+print("-------PROFILE-------")
+print(f"Name: {name} ")
+print(f"Age: {age} ")
