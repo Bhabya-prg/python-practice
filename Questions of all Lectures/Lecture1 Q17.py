@@ -1,0 +1,5 @@
+num1=input("Enter first number :")
+num2=input("Enter second number :")
+print(f" Sum={float(num1)+float(num2)}")
+print(f" difference={float(num1)-float(num2)}")
+print(f" product={float(num1)*float(num2)}")

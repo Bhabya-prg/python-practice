@@ -1,0 +1,5 @@
+maths=int(input("Enter your marks in Maths: "))
+science=int(input("Enter your marks in Science: "))
+english=int(input("Enter your marks in English: "))
+print(f"Total marks: {maths + science +english}")
+print(f"Average marks: {(maths + science +english)/3}")
